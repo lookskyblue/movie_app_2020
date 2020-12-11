@@ -1,3 +1,3 @@
 # Movie App 2020
-hi
-React JS Fundementals Course (2020 Update!)
+
+https://lookskyblue.github.io/movie_app_2020/
